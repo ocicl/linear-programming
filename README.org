@@ -1,0 +1,10 @@
+* linear-programming
+
+A Common Lisp library for solving linear programming problems
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/neil-lindquist/linear-programming.git   |
+| commit  | d37c658  |
+| systems | linear-programming |
+|---------+-------------------------------------------|
+
