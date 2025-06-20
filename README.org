@@ -4,6 +4,6 @@ A Common Lisp library for solving linear programming problems
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://github.com/neil-lindquist/linear-programming.git |
-| commit  | ca57a0b                                                      |
+| commit  | 62c7c13                                                      |
 | systems | linear-programming                                           |
 |---------+--------------------------------------------------------------|
