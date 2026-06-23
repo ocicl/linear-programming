@@ -7,4 +7,4 @@ A Common Lisp library for solving linear programming problems
 | commit  | 62c7c13                                                      |
 | systems | linear-programming                                           |
 |---------+--------------------------------------------------------------|
- 
+  
